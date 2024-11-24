@@ -6,9 +6,13 @@ The data is related with direct marketing campaigns of a banking institution. Th
 For each id in the test set, you must predict a class for the target variable. The file should contain a header and have the following format:
 
 id	target
+
 0	"yes"
+
 1	"no"
+
 2	"no"
+
 
 
 The data is related with direct marketing campaigns of a banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
